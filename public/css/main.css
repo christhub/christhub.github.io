@@ -14,6 +14,15 @@
   /*padding-top: 10%;*/
 }
 
+.arrow {
+  position: absolute;
+  text: center;
+  bottom: 5px;
+  color: #fff;
+  font-size: 3em;
+}
+
+
 #first-page {
   background-color:#FF9966;
   cursor: url(public/img/down-cursor.png);
@@ -35,8 +44,6 @@
   height:100%;
   width: 100%;
 }
-
-
 
 .about-me {
   color: #fff;
@@ -147,4 +154,13 @@ h1, .date, a {
 
 .index-icon:hover {
   color: #00b7bf;
+}
+
+
+.arrow-2 {
+  position: absolute;
+  text: center;
+  bottom: 5px;
+  color: #fff;
+  font-size: 2em;
 }
